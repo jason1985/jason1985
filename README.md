@@ -41,14 +41,12 @@
 <img src="https://raw.githubusercontent.com/jason1985/jason1985-content/master/fire.gif">
 </p>
 <p align="center">
-you are visitor number <img src="https://raw.githubusercontent.com/jason1985/jason1985-content/master/counter.gif">
+You are visitor number <img src="https://raw.githubusercontent.com/jason1985/jason1985-content/master/counter.gif">
 </p>
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/jason1985/jason1985-content/master/geo.gif">
 <img align="center" src="https://raw.githubusercontent.com/jason1985/jason1985-content/master/ie.gif">
-  <br>
-<img src="https://raw.githubusercontent.com/jason1985/jason1985-content/master/icq.gif">
-<br>
 <br>
   <img align="center" src="https://raw.githubusercontent.com/jason1985/jason1985-content/master/modem.gif">
+  <img align="center" src="https://raw.githubusercontent.com/jason1985/jason1985-content/master/netscape.gif">
 </p>

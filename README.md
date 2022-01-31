@@ -12,6 +12,8 @@
 - Check out my open source contributions [here](https://github.com/search?q=is%3Apr+author%3Ajason1985+archived%3Afalse+is%3Aclosed&type=issues)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/jason-garey/)
 <br>
+<h2 align="center"><a href="https://jason1985.github.io/portfolio/">My Portfolio</a></h2>
+<br>
 <h2 align="center">Languages and Technologies</h2>
 <h4 align="center">React, React Native, Node, JavaScript, TypeScript, Kotlin, MongoDB, PostgreSQL, HTML, CSS<h4>
 <p align="center">

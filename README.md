@@ -6,8 +6,6 @@
 
 ## About me
 - I'm interested in Front End, Full Stack, and Android Development
-- I’m seeking a Junior Developer position in 2022
-- I’m currently reading Head First Android Development, 3rd Edition 2022
 - Fun fact: I once drove 1000+ miles on a motorbike from South Vietnam to North Vietnam
 - Check out my open source contributions [here](https://github.com/search?q=is%3Apr+author%3Ajason1985+archived%3Afalse+is%3Aclosed&type=issues)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/jason-garey/)
